@@ -103,9 +103,23 @@ class ConfigManager:
             "padding": 10,  # Padding from the edge
         },
         "auto_detection": {
-            "enabled": False,
-            "watch_dirs": ["~/Pictures/Screenshots"],
-            "file_patterns": ["*.png", "*.jpg", "*.jpeg"],
+            "enabled": True,  # Enable by default
+            "watch_dirs": [
+                "~/Pictures/Screenshots",
+                "~/Desktop", 
+                "~/Downloads",
+                "~/Pictures"
+            ],
+            "file_patterns": [
+                "*.png", "*.PNG",
+                "*.jpg", "*.JPG", "*.jpeg", "*.JPEG", 
+                "*.webp", "*.WEBP",
+                "*.bmp", "*.BMP",
+                "*.tiff", "*.TIFF", "*.tif", "*.TIF",
+                "*.gif", "*.GIF",
+                "*.ico", "*.ICO",
+                "*.svg", "*.SVG"
+            ],
         },
     }
     
