@@ -73,7 +73,7 @@ XShot is a powerful, highly customizable screenshot enhancement tool built in Py
 1. **Clone the repository**:
 ```bash
 git clone https://github.com/RenzMc/XSHOT-BY-RENZ.git
-cd XSHOT/xshot
+cd XSHOT-BY-RENZ
 ```
 
 2. **Install dependencies**:
@@ -357,8 +357,8 @@ We welcome contributions! Here's how to get started:
 
 ```bash
 # 1. Fork and clone
-git clone https://github.com/YourUsername/XSHOT.git
-cd XSHOT
+git clone https://github.com/RenzMc/XSHOT-BY-RENZ.git
+cd XSHOT-BY-RENZ
 
 # 2. Create development environment  
 python -m venv venv
